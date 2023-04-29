@@ -1,0 +1,13 @@
+1. Old hacked by offset : 001186d9
+Old if password check offset: 001039f1
+
+
+2. new hacked by offset: 001186d9
+New password check offset: 001039f1
+
+3. Original Password: tpgtahc!
+
+4) I changed the JZ to JMP,  pretty much no more if statement
+
+
+
